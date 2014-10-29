@@ -1,0 +1,18 @@
+-Processing 13 specification(s)
+ SafeFile.rvm is generated
+ SafeFileWriter.rvm is generated
+ SafeMapIterator.rvm is generated
+ SafeEnum.rvm is generated
+ SafeSyncCollection.rvm is generated
+ PasswordLogin.rvm is generated
+ FileClose.rvm is generated
+ HasNext.rvm is generated
+ UnsafeIterator.rvm is generated
+ UnsafeMapIterator.rvm is generated
+ HashSet.rvm is generated
+ SafeSyncMap.rvm is generated
+ SafeIterator.rvm is generated
+ testManyMonitorAspect.aj is generated
+-Processing 13 specification(s)
+ testManyRuntimeMonitor.java is generated
+testMany.jar is generated.
